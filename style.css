@@ -181,8 +181,10 @@ p {
 }
 
 .section-4 .button {
-  border: 2px solid white;
+  border: 3px solid white;
   color: white;
   padding: 5px 25px;
   border-radius: 5px;
+  font-size: 20px;
+  font-weight: 600;
 }
