@@ -188,3 +188,12 @@ p {
   font-size: 20px;
   font-weight: 600;
 }
+
+/* fifth section */
+
+.section-5 {
+  background-color: #1f2937;
+  text-align: center;
+  color: #f9faf8;
+  padding: 20px 0px;
+}
